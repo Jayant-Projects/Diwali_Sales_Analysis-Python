@@ -50,23 +50,17 @@ This project involves **Exploratory Data Analysis (EDA)** on a Diwali sales info
 ## Results and Visualizations
 
 ### 1. Customer Demographics:
-![Demographics](demo.png)
 - Male customers contribute more to the sales.
 - Customers in the age group **26-35 years** are the largest spenders.
 
 ### 2. Sales by Occupation:
-![Sales by Occupation](occupation.png)
 - **Working professionals** in IT, Healthcare, and Aviation were among the highest spenders.
 
 ### 3. Sales by Product Category:
-![Product Categories](product_categories.png)
 - **Electronics**, **Clothing**, and **Food** were the top-selling categories.
 
 ### 4. Sales by State:
-![Sales by State](sales_state.png)
 - States like **Uttar Pradesh**, **Maharashtra**, and **Karnataka** recorded the highest sales during Diwali.
-
----
 
 ## Conclusion
 
