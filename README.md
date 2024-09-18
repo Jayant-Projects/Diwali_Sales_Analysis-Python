@@ -2,12 +2,6 @@
 
 ![proj_6](https://github.com/user-attachments/assets/a6bf9d75-3bbe-431e-a246-f366d46088b2)
 
-Here's a complete framework you can use to explain your Diwali Sales Analysis project for showcasing on your GitHub repository. This framework includes an introduction, steps involved, analysis insights, and a conclusion based on the content of your Jupyter notebook.
-
----
-
-# Diwali Sales Analysis
-
 ## Introduction
 
 This project involves **Exploratory Data Analysis (EDA)** on a Diwali sales information dataset. The goal of the analysis is to identify significant sales trends and patterns that can help businesses optimize their sales strategies during the Diwali festival.
@@ -43,7 +37,7 @@ This project involves **Exploratory Data Analysis (EDA)** on a Diwali sales info
   - Customers in the **age group 26-35 years** were found to contribute the highest sales.
   
 - **Sales by Gender**:
-  - Sales were higher among **male customers** compared to female customers.
+  - Sales were higher among **female customers** compared to male customers.
   
 - **Sales by State**:
   - **Uttar Pradesh, Maharashtra, and Karnataka** recorded the highest sales.
